@@ -8,7 +8,7 @@
              6 MB noch einmal herunter.
    Dazu 'lernapp-share' als Zwischenablage für Dateien, die über das
    Teilen-Menü von Android hereinkommen (siehe unten). */
-const CACHE = 'lernapp-v1';
+const CACHE = 'lernapp-v2';
 const VENDOR = 'lernapp-pdfjs-6.4.299';
 const SHARE = 'lernapp-share';
 
